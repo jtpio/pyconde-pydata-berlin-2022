@@ -107,7 +107,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8e00d90a74deb83288ce.js",
+        "load": "static/remoteEntry.8e5d51d3d5c028b51d45.js",
         "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
