@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-filesystem-access",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Mount local files using the Filesystem API",
   "keywords": [
     "jupyter",
@@ -90,7 +90,7 @@
     "extension": true,
     "outputDir": "jupyterlab_filesystem_access/labextension",
     "_build": {
-      "load": "static/remoteEntry.8e5d51d3d5c028b51d45.js",
+      "load": "static/remoteEntry.3d66a92af8db62203a5d.js",
       "extension": "./extension",
       "style": "./style"
     }

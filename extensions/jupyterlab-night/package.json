@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-night",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Dark theme for JupyterLab",
   "keywords": [
     "jupyter",
@@ -22,7 +22,6 @@
   ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "style": "style/index.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/martinRenou/jupyterlab-night.git"
@@ -84,9 +83,8 @@
     "outputDir": "jupyterlab_night/labextension",
     "themePath": "style/index.css",
     "_build": {
-      "load": "static/remoteEntry.32b1514a59f17c15f88b.js",
-      "extension": "./extension",
-      "style": "./style"
+      "load": "static/remoteEntry.a2386129d8839899fef1.js",
+      "extension": "./extension"
     }
   },
   "jupyter-releaser": {

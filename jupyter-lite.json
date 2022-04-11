@@ -94,16 +94,15 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8e5d51d3d5c028b51d45.js",
+        "load": "static/remoteEntry.3d66a92af8db62203a5d.js",
         "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.32b1514a59f17c15f88b.js",
-        "name": "jupyterlab-night",
-        "style": "./style"
+        "load": "static/remoteEntry.a2386129d8839899fef1.js",
+        "name": "jupyterlab-night"
       },
       {
         "extension": "./extension",
