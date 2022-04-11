@@ -4,7 +4,7 @@ ipyleaflet==0.15.0
 ipympl==0.8.8
 ipywidgets==7.7.0
 jupyterlab==3.3.3
-jupyterlab-filesystem-access==0.1.1
+jupyterlab-filesystem-access==0.2.0
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 jupyterlab-fasta==3.2.0
