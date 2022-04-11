@@ -63,12 +63,6 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
         "load": "static/remoteEntry.af71ba374fc8128e6506.js",
         "name": "bqplot"
       },
@@ -100,15 +94,15 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
+        "load": "static/remoteEntry.8e5d51d3d5c028b51d45.js",
+        "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8e5d51d3d5c028b51d45.js",
-        "name": "jupyterlab-filesystem-access",
+        "load": "static/remoteEntry.32b1514a59f17c15f88b.js",
+        "name": "jupyterlab-night",
         "style": "./style"
       },
       {
@@ -117,6 +111,13 @@
         "load": "static/remoteEntry.730e734f0ef88fa439e8.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.034f4c6f7f5d4eb9c65a.js",
+        "name": "jupyterlab-stickyland",
+        "style": "./style"
       },
       {
         "extension": "./extension",
