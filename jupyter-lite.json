@@ -128,7 +128,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.fc1c31abb754cd005250.js",
+        "load": "static/remoteEntry.80b3e67b9de9b245d27f.js",
         "name": "jupyterlab_pygments",
         "style": "./style"
       }
